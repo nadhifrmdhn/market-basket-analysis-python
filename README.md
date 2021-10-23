@@ -1,4 +1,6 @@
 # Python - Market Basket Analysis
+![Cover]
+(https://miro.medium.com/max/2880/1*DHfQvlMVBaJCHpYmj1kmCw.png)
 Orbit Study Independent | Team Mini Project | AI Domain Data Science
 
 Pada notebook ini dataset di ambil dari Kaggle, berikut linknya:
